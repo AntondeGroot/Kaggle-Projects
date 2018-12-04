@@ -1,6 +1,6 @@
 # Kaggle-Projects
 
-these are some uncommitted Kaggle Kernels, or datasets not coming from Kaggle.
+these are some not yet committed Kaggle Kernels, or datasets not coming from Kaggle.
 
 - `Mushroom.ipynb` : Exploration of how to handle missing values in this dataset. Goal is to classify mushrooms as either poisonous or edible.
 
